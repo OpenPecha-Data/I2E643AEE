@@ -1,0 +1,38 @@
+id: I2E643AEE
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:35:49.453279'
+last_modified: '2022-06-19T04:35:49.453291'
+parser: null
+source_metadata:
+  title: Hagiography of Jam dbyangs mkhyen brtsei dbang po Kun dga bstan pai rgyal
+    mtshan (1820–1892); Lamdre Lobshe, vol. nya, title no. 1
+  author: ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  description: 'Digital version 2.1 {Tibetan}; master xml (completed: 2013-09-09);
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), ཀུན་དགའ་རྡོ་རྗེ། (Kathmandu) (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/341
+  bases:
+    c97b:
+      title: Hagiography of Jam dbyangs mkhyen brtsei dbang po Kun dga bstan pai rgyal
+        mtshan (1820–1892); Lamdre Lobshe, vol. nya, title no. 1
+      order: 1
+      base_file: c97b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
